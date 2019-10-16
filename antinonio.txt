@@ -24,6 +24,7 @@ ojogo.pt * inline-script block
 dinheirovivo.pt * inline-script block
 radiocomercial.iol.pt * inline-script block
 maisfutebol.iol.pt * inline-script block
+evasoes.pt * inline-script block
 
 ! -------------------------------------------------- !
 ! Regra especial para o publico                      !
